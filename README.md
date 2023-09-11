@@ -1,20 +1,4 @@
-# Coupon-Api-Spring-Boot
 # Coupon Service for E-Commerce
-
-![Project Logo/Icon]
-
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Project Structure](#project-structure)
-- [Database Migrations](#database-migrations)
-- [API Documentation with Swagger](#api-documentation-with-swagger)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
