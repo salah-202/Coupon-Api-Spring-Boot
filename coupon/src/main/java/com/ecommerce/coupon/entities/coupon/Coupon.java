@@ -23,7 +23,7 @@ public class Coupon {
     @Column(name = "coupon_code")
     private Long couponCode;
     @Column(name = "created_date")
-    private final Date createdDate = new Date();
+    private final Date CREATED_DATE = new Date();
     @Column(name = "expiry_date")
     private Date expiryDate;
     @Column(name = "max_usages")
